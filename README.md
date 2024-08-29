@@ -13,8 +13,8 @@
 - VPN
   - [VPN Prerequisites and Setup](https://github.com/evannagel/vpn)
 
-- Windows Firewall
-  - [Windows Defender Firewall](https://github.com/evannagel/vpn)
+- DNS
+  - [A Records & CNAME](https://github.com/evannagel/dns)
 
 
 
