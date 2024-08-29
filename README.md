@@ -13,6 +13,10 @@
 - VPN
   - [VPN Prerequisites and Setup](https://github.com/evannagel/vpn)
 
+- Windows Firewall
+  - [Windows Defender Firewall](https://github.com/evannagel/vpn)
+
+
 
 <h2>🤳Connect with me:</h2>
 
