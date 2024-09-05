@@ -15,8 +15,7 @@
 
 - <b>DNS</b>
   - [A Records & CNAME](https://github.com/evannagel/dns)
-- <b>Data Scraping (OSINT)</b> 
-  - [Data Scraping Using Apify (Instagram)](https://github.com/evannagel/dataapify)
+
 
 <h2>🤳Connect with me:</h2>
 
