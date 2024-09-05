@@ -10,13 +10,13 @@
   - [Resource Group And Virtual Machine Setup](https://github.com/evannagel/rgandvmsetup)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/evannagel/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/evannagel/azure-network-protocols)
-- VPN
+- <b>VPN
   - [VPN Prerequisites and Setup](https://github.com/evannagel/vpn)
 
 - DNS
   - [A Records & CNAME](https://github.com/evannagel/dns)
-
-
+- Data Scraping (OSINT) 
+  - [Data Scraping Using Apify](https://github.com/evannagel/dns)
 
 <h2>🤳Connect with me:</h2>
 
