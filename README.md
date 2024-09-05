@@ -16,7 +16,7 @@
 - DNS
   - [A Records & CNAME](https://github.com/evannagel/dns)
 - Data Scraping (OSINT) 
-  - [Data Scraping Using Apify](https://github.com/evannagel/dns)
+  - [Data Scraping Using Apify](https://github.com/evannagel/dataapify)
 
 <h2>🤳Connect with me:</h2>
 
